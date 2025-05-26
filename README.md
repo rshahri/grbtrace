@@ -20,8 +20,3 @@ This tool is meant for researchers, students, and enthusiasts in astrophysics an
 - 📊 Extract astrophysical features (e.g., T90, peak flux, hardness ratio)  
 - 🖼️ Produce plots for publication or interactive analysis  
 - 🔧 Designed for extensibility and future ML-based classification  
-
----
-
-## 📁 Directory Structure
-
